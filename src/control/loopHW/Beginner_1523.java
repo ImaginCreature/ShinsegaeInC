@@ -16,7 +16,7 @@ public class Beginner_1523 {
         } else if (m == 2) {
             for(int i = 0; i < n; i++) {
                 int starNumber = n-i;
-                for(int j = ; j < ; j++) {
+                for(int j =  ; j < ; j++) {
 
                 }
 
