@@ -18,7 +18,7 @@
 ////        int totalValue = 0;
 ////        double average = 0;
 ////        while (true) {
-////            int integer = scanner.nextInt();
+////            int integer = scanner.nextIn t();
 ////            totalValue += integer;
 ////            ++count;
 ////            if(integer >=100) break;
